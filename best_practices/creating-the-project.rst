@@ -54,7 +54,7 @@ requirements.
 
 Structuring the Application
 ---------------------------
-
+<h1>asd
 After creating the application, enter the ``blog/`` directory and you'll see a
 number of files and directories generated automatically:
 
